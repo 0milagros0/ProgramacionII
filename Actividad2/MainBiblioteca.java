@@ -25,7 +25,6 @@ public class MainBiblioteca {
             18500.0
         );
 
-        // Libro con título inválido
         Libro libroInvalido = new Libro(
             "",
             "Autor desconocido",
